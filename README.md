@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Minh Vương
+- 👋 Hi, I’m Minh Vương.I live in Vietnam.
 - 👀 I’m interested in games,movies...
-- 🌱 I’m currently learning codes
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning program langues: Java,Css,...
+
+
+<img src="https://howtovietnamese.com/static/c14e9af89a31156da4e0de35fe446d9e/db955/blog-hello-in-vietnamese.png"></img>
 
 <h1> Contact with me </h1>
 <a href="https://twitter.com/minhvuong01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhvuong01" height="30" width="40" /></a>
